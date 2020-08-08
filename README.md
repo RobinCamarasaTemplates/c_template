@@ -1,6 +1,6 @@
-# Latex template Erasmus MC
+# C template
 
-Cookie cutter template to generate latex slides that follows Erasmus MC.
+Cookie cutter template that allows to generate simple C project.
 
 ## Requirements
  - Python 2.7 or 3.5
@@ -20,7 +20,7 @@ $ conda install cookiecutter
 
 ## To start a new project, run
 ``` bash
-$ cookiecutter https://github.com/bigrphdrobincamarasa/latex_presentation_erasmusmc.git
+$ cookiecutter 
 ```
 
 ## To contribute
